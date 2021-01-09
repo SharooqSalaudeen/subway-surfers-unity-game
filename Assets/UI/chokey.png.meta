@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: ae0ed8936d001704ca208021cc0fd7ae
+timeCreated: 1464346477
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chokey_0
+    21300002: chokey_1
+    21300004: chokey_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: 12
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chokey_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 35.5}
+        - {x: -35.5, y: 29.5}
+        - {x: -35.5, y: -20.5}
+        - {x: -22.5, y: -35.5}
+        - {x: 19.5, y: -35.5}
+        - {x: 34.5, y: -31.5}
+        - {x: 35.5, y: -30.5}
+        - {x: 35.5, y: 22.5}
+        - {x: 31.5, y: 35.5}
+    - name: chokey_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 329
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 156.5, y: 80}
+        - {x: -63.5, y: 80}
+        - {x: -63.5, y: 90}
+        - {x: -65.5, y: 99}
+        - {x: -84.5, y: 121}
+        - {x: -91.5, y: 124}
+        - {x: -136.5, y: 124}
+        - {x: -147.5, y: 119}
+        - {x: -163.5, y: 101}
+        - {x: -164.5, y: 97}
+        - {x: -164.5, y: 52}
+        - {x: -159.5, y: 41}
+        - {x: -146.5, y: 27}
+        - {x: -139.5, y: 23}
+        - {x: -129.5, y: 20}
+        - {x: -121.5, y: 20}
+        - {x: -121.5, y: -118}
+        - {x: -115.5, y: -124}
+        - {x: 160.5, y: -124}
+        - {x: 164.5, y: -120}
+        - {x: 164.5, y: 72}
+    - name: chokey_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 23
+        width: 67
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 36.5}
+        - {x: -33.5, y: -36.5}
+        - {x: 33.5, y: -36.5}
+        - {x: 33.5, y: 36.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

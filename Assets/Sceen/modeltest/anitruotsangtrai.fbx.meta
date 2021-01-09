@@ -1,0 +1,578 @@
+fileFormatVersion: 2
+guid: fd2b6441dba49cd41a23ff822b29a812
+timeCreated: 1466654565
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: modelrigcontrol:Character1_Head
+    100004: modelrigcontrol:Character1_Hips
+    100006: modelrigcontrol:Character1_LeftArm
+    100008: modelrigcontrol:Character1_LeftFoot
+    100010: modelrigcontrol:Character1_LeftForeArm
+    100012: modelrigcontrol:Character1_LeftHand
+    100014: modelrigcontrol:Character1_LeftHandRing1
+    100016: modelrigcontrol:Character1_LeftHandRing2
+    100018: modelrigcontrol:Character1_LeftHandRing3
+    100020: modelrigcontrol:Character1_LeftLeg
+    100022: modelrigcontrol:Character1_LeftShoulder
+    100024: modelrigcontrol:Character1_LeftToeBase
+    100026: modelrigcontrol:Character1_LeftUpLeg
+    100028: modelrigcontrol:Character1_Neck
+    100030: modelrigcontrol:Character1_RightArm
+    100032: modelrigcontrol:Character1_RightFoot
+    100034: modelrigcontrol:Character1_RightForeArm
+    100036: modelrigcontrol:Character1_RightHand
+    100038: modelrigcontrol:Character1_RightHandRing1
+    100040: modelrigcontrol:Character1_RightHandRing2
+    100042: modelrigcontrol:Character1_RightHandRing3
+    100044: modelrigcontrol:Character1_RightLeg
+    100046: modelrigcontrol:Character1_RightShoulder
+    100048: modelrigcontrol:Character1_RightToeBase
+    100050: modelrigcontrol:Character1_RightUpLeg
+    100052: modelrigcontrol:Character1_Spine
+    100054: modelrigcontrol:Character1_Spine1
+    100056: modelrigcontrol:Character1_Spine2
+    400000: //RootNode
+    400002: modelrigcontrol:Character1_Head
+    400004: modelrigcontrol:Character1_Hips
+    400006: modelrigcontrol:Character1_LeftArm
+    400008: modelrigcontrol:Character1_LeftFoot
+    400010: modelrigcontrol:Character1_LeftForeArm
+    400012: modelrigcontrol:Character1_LeftHand
+    400014: modelrigcontrol:Character1_LeftHandRing1
+    400016: modelrigcontrol:Character1_LeftHandRing2
+    400018: modelrigcontrol:Character1_LeftHandRing3
+    400020: modelrigcontrol:Character1_LeftLeg
+    400022: modelrigcontrol:Character1_LeftShoulder
+    400024: modelrigcontrol:Character1_LeftToeBase
+    400026: modelrigcontrol:Character1_LeftUpLeg
+    400028: modelrigcontrol:Character1_Neck
+    400030: modelrigcontrol:Character1_RightArm
+    400032: modelrigcontrol:Character1_RightFoot
+    400034: modelrigcontrol:Character1_RightForeArm
+    400036: modelrigcontrol:Character1_RightHand
+    400038: modelrigcontrol:Character1_RightHandRing1
+    400040: modelrigcontrol:Character1_RightHandRing2
+    400042: modelrigcontrol:Character1_RightHandRing3
+    400044: modelrigcontrol:Character1_RightLeg
+    400046: modelrigcontrol:Character1_RightShoulder
+    400048: modelrigcontrol:Character1_RightToeBase
+    400050: modelrigcontrol:Character1_RightUpLeg
+    400052: modelrigcontrol:Character1_Spine
+    400054: modelrigcontrol:Character1_Spine1
+    400056: modelrigcontrol:Character1_Spine2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 28
+      lastFrame: 46
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_LeftUpLeg
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_LeftUpLeg/modelrigcontrol:Character1_LeftLeg
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_LeftUpLeg/modelrigcontrol:Character1_LeftLeg/modelrigcontrol:Character1_LeftFoot
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_LeftUpLeg/modelrigcontrol:Character1_LeftLeg/modelrigcontrol:Character1_LeftFoot/modelrigcontrol:Character1_LeftToeBase
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_RightUpLeg
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_RightUpLeg/modelrigcontrol:Character1_RightLeg
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_RightUpLeg/modelrigcontrol:Character1_RightLeg/modelrigcontrol:Character1_RightFoot
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_RightUpLeg/modelrigcontrol:Character1_RightLeg/modelrigcontrol:Character1_RightFoot/modelrigcontrol:Character1_RightToeBase
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_LeftShoulder
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_LeftShoulder/modelrigcontrol:Character1_LeftArm
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_LeftShoulder/modelrigcontrol:Character1_LeftArm/modelrigcontrol:Character1_LeftForeArm
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_LeftShoulder/modelrigcontrol:Character1_LeftArm/modelrigcontrol:Character1_LeftForeArm/modelrigcontrol:Character1_LeftHand
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_LeftShoulder/modelrigcontrol:Character1_LeftArm/modelrigcontrol:Character1_LeftForeArm/modelrigcontrol:Character1_LeftHand/modelrigcontrol:Character1_LeftHandRing1
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_LeftShoulder/modelrigcontrol:Character1_LeftArm/modelrigcontrol:Character1_LeftForeArm/modelrigcontrol:Character1_LeftHand/modelrigcontrol:Character1_LeftHandRing1/modelrigcontrol:Character1_LeftHandRing2
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_LeftShoulder/modelrigcontrol:Character1_LeftArm/modelrigcontrol:Character1_LeftForeArm/modelrigcontrol:Character1_LeftHand/modelrigcontrol:Character1_LeftHandRing1/modelrigcontrol:Character1_LeftHandRing2/modelrigcontrol:Character1_LeftHandRing3
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_Neck
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_Neck/modelrigcontrol:Character1_Head
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_RightShoulder
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_RightShoulder/modelrigcontrol:Character1_RightArm
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_RightShoulder/modelrigcontrol:Character1_RightArm/modelrigcontrol:Character1_RightForeArm
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_RightShoulder/modelrigcontrol:Character1_RightArm/modelrigcontrol:Character1_RightForeArm/modelrigcontrol:Character1_RightHand
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_RightShoulder/modelrigcontrol:Character1_RightArm/modelrigcontrol:Character1_RightForeArm/modelrigcontrol:Character1_RightHand/modelrigcontrol:Character1_RightHandRing1
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_RightShoulder/modelrigcontrol:Character1_RightArm/modelrigcontrol:Character1_RightForeArm/modelrigcontrol:Character1_RightHand/modelrigcontrol:Character1_RightHandRing1/modelrigcontrol:Character1_RightHandRing2
+        weight: 1
+      - path: modelrigcontrol:Character1_Hips/modelrigcontrol:Character1_Spine/modelrigcontrol:Character1_Spine1/modelrigcontrol:Character1_Spine2/modelrigcontrol:Character1_RightShoulder/modelrigcontrol:Character1_RightArm/modelrigcontrol:Character1_RightForeArm/modelrigcontrol:Character1_RightHand/modelrigcontrol:Character1_RightHandRing1/modelrigcontrol:Character1_RightHandRing2/modelrigcontrol:Character1_RightHandRing3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: modelrigcontrol:Character1_Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftUpLeg
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightUpLeg
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftLeg
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightLeg
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftFoot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightFoot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftShoulder
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightShoulder
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftForeArm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightForeArm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftHand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightHand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftToeBase
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightToeBase
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftHandRing1
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftHandRing2
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_LeftHandRing3
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightHandRing1
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightHandRing2
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: modelrigcontrol:Character1_RightHandRing3
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: anitruotsangtrai(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_Hips
+      position: {x: -0.0008766055, y: 0.94374996, z: -0.00019645691}
+      rotation: {x: -0.0014887496, y: -0.0109922625, z: 0.0070075844, w: 0.99991393}
+      scale: {x: 0.9999999, y: 1, z: 1}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftUpLeg
+      position: {x: -0.14947996, y: -0.062699996, z: 0.000000020548985}
+      rotation: {x: -0.046547, y: -0.3610888, z: -0.044476822, w: 0.93030643}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftLeg
+      position: {x: -0.022191647, y: -0.34569716, z: 0.045321718}
+      rotation: {x: 0.055823855, y: 0.10408114, z: 0.013599621, w: 0.9929078}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftFoot
+      position: {x: -0.022153394, y: -0.4635245, z: -0.17549169}
+      rotation: {x: -0.037526928, y: 0.10308065, z: 0.004564948, w: 0.99395436}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftToeBase
+      position: {x: -0.0034086898, y: -0.093082055, z: 0.31285715}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightUpLeg
+      position: {x: 0.14947994, y: -0.0627, z: 0.00000008647797}
+      rotation: {x: -0.025986886, y: -0.06127052, z: 0.015092743, w: 0.9976687}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightLeg
+      position: {x: 0.022198256, y: -0.34569594, z: 0.0453262}
+      rotation: {x: 0.06443903, y: 0.047342032, z: -0.0058853654, w: 0.99678075}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightFoot
+      position: {x: 0.022153497, y: -0.46352497, z: -0.1754917}
+      rotation: {x: -0.100082934, y: 0.14754006, z: -0.0041550556, w: 0.98397064}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightToeBase
+      position: {x: 0.0034086588, y: -0.09308207, z: 0.3128574}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_Spine
+      position: {x: 0.000000023777117, y: 0.070000015, z: -0.000000025874405}
+      rotation: {x: 0.010145998, y: 0.021890968, z: -0.00967314, w: 0.9996621}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_Spine1
+      position: {x: -0.000000075070666, y: 0.17330793, z: 0.00000012688638}
+      rotation: {x: 0.09621254, y: 0.0000019520935, z: -0.00000018869125, w: 0.99536085}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_Spine2
+      position: {x: 0.000000011290166, y: 0.17330787, z: -0.000000047953094}
+      rotation: {x: 0.096212775, y: -0, z: -0, w: 0.9953608}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000004}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftShoulder
+      position: {x: -0.14299856, y: 0.010010873, z: 0.00000010621239}
+      rotation: {x: -0.0004148109, y: 0.030102408, z: 0.0009603363, w: 0.99954635}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftArm
+      position: {x: -0.10707268, y: 0.0000013881248, z: -0.046292763}
+      rotation: {x: -0.030673403, y: -0.041951034, z: 0.025671802, w: 0.99831873}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftForeArm
+      position: {x: -0.33337393, y: -0.005837335, z: -0.00000009416366}
+      rotation: {x: -0.0009974852, y: 0.020060286, z: -0.03493834, w: 0.99918765}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftHand
+      position: {x: -0.22748215, y: -0.0065815495, z: -0.000000067304114}
+      rotation: {x: -0.0035607426, y: 0.15877882, z: 0.081242494, w: 0.98395956}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftHandRing1
+      position: {x: -0.08893757, y: 0.0037993155, z: -0.007931591}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftHandRing2
+      position: {x: -0.04537755, y: 0.00000004576204, z: 0.00000002775042}
+      rotation: {x: 0, y: 0, z: 0.000003076278, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_LeftHandRing3
+      position: {x: -0.023045301, y: 0.000000001344413, z: 0.000000054686705}
+      rotation: {x: 0.0000005023916, y: -0.00000060569823, z: 0.0000005312373, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_Neck
+      position: {x: 0.00000008834011, y: 0.17330791, z: -0.000000024979252}
+      rotation: {x: -0.10350061, y: 0.17070934, z: -0.108174466, w: 0.97388107}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_Head
+      position: {x: 0.00000023223424, y: 0.40129694, z: -0.00000014442902}
+      rotation: {x: 0.00000013900208, y: 0.17266221, z: -0.0000007929611, w: 0.9849811}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightShoulder
+      position: {x: 0.14299858, y: 0.01001083, z: -0.000000018582504}
+      rotation: {x: 0.00062295015, y: -0.049193162, z: 0.0014395267, w: 0.99878806}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightArm
+      position: {x: 0.10707254, y: 0.0000012471492, z: -0.04629304}
+      rotation: {x: 0.00009059302, y: 0.04167709, z: -0.013156334, w: 0.9990446}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightForeArm
+      position: {x: 0.33337393, y: -0.005837477, z: -0.00000007119721}
+      rotation: {x: -0.026566343, y: -0.016344942, z: 0.031871993, w: 0.99900514}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightHand
+      position: {x: 0.22748227, y: -0.0065815873, z: 0.000000013775349}
+      rotation: {x: -0.0031749608, y: -0.10973404, z: -0.07518673, w: 0.9911082}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightHandRing1
+      position: {x: 0.08893777, y: 0.0037993097, z: -0.007931462}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightHandRing2
+      position: {x: 0.04537753, y: 0.000000004686952, z: -0.00000004224785}
+      rotation: {x: 1.3211231e-11, y: -0.0000053167487, z: -0.0000024848323, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: modelrigcontrol:Character1_RightHandRing3
+      position: {x: 0.023045233, y: 0.00000003695102, z: -0.00000025859651}
+      rotation: {x: 0, y: 0.00011696848, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

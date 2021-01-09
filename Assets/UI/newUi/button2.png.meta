@@ -1,0 +1,169 @@
+fileFormatVersion: 2
+guid: 9cd22a8c913eca744a7fe8fbe8922563
+timeCreated: 1471243183
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: button2_0
+    21300002: button2_1
+    21300004: button2_2
+    21300006: button2_3
+    21300008: button2_4
+    21300010: button2_5
+    21300012: button2_6
+    21300014: button2_7
+    21300016: button2_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: button2_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 373
+        width: 306
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -153, y: 29.5}
+        - {x: -153, y: -24.5}
+        - {x: -126, y: -22.5}
+        - {x: -125, y: -16.5}
+        - {x: -125, y: 11.5}
+        - {x: -124, y: -7.5}
+        - {x: -122, y: -12.5}
+        - {x: -128, y: -29.5}
+        - {x: -49, y: -29.5}
+        - {x: -49, y: 8.5}
+        - {x: -50, y: 10.5}
+        - {x: -60, y: 18.5}
+        - {x: -104, y: 29.5}
+      - - {x: 107, y: 29.5}
+        - {x: 45, y: 29.5}
+        - {x: 30, y: 20.5}
+        - {x: 30, y: -29.5}
+        - {x: 142, y: -29.5}
+        - {x: 153, y: -1.5}
+        - {x: 153, y: 18.5}
+      - - {x: -10, y: 22.5}
+        - {x: -20, y: 25.5}
+        - {x: -37, y: 25.5}
+        - {x: -39, y: 23.5}
+        - {x: -40, y: 16.5}
+        - {x: -40, y: -7.5}
+        - {x: -36, y: -20.5}
+        - {x: 14, y: -20.5}
+        - {x: 17, y: -13.5}
+        - {x: 17, y: 13.5}
+        - {x: 11, y: 16.5}
+    - name: button2_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 197
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 59}
+        - {x: -73, y: 58}
+        - {x: -80, y: 50}
+        - {x: -80, y: -52}
+        - {x: -72, y: -59}
+        - {x: 80, y: -59}
+        - {x: 80, y: 59}
+    - name: button2_7
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 40
+        width: 132
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 68}
+        - {x: -38, y: 66}
+        - {x: -66, y: 35}
+        - {x: -66, y: -29}
+        - {x: -48, y: -68}
+        - {x: 53, y: -68}
+        - {x: 66, y: -50}
+        - {x: 66, y: 38}
+        - {x: 57, y: 68}
+    - name: button2_8
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 41
+        width: 160
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73, y: 59}
+        - {x: -73, y: 58}
+        - {x: -80, y: 50}
+        - {x: -80, y: -52}
+        - {x: -72, y: -59}
+        - {x: 80, y: -59}
+        - {x: 80, y: 59}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

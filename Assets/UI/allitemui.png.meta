@@ -1,0 +1,808 @@
+fileFormatVersion: 2
+guid: bd97116cad978144f85c35d50b454939
+timeCreated: 1472133603
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: allitemui_0
+    21300002: allitemui_1
+    21300004: allitemui_2
+    21300006: allitemui_3
+    21300008: allitemui_4
+    21300010: allitemui_20
+    21300012: allitemui_21
+    21300014: allitemui_5
+    21300016: allitemui_6
+    21300018: allitemui_22
+    21300020: allitemui_23
+    21300022: allitemui_24
+    21300024: allitemui_25
+    21300026: allitemui_26
+    21300028: allitemui_27
+    21300030: allitemui_28
+    21300032: allitemui_29
+    21300034: allitemui_30
+    21300036: allitemui_31
+    21300038: allitemui_32
+    21300040: allitemui_33
+    21300042: allitemui_34
+    21300044: allitemui_35
+    21300046: allitemui_36
+    21300048: allitemui_37
+    21300050: allitemui_38
+    21300052: allitemui_39
+    21300054: allitemui_40
+    21300056: allitemui_41
+    21300058: allitemui_42
+    21300060: allitemui_43
+    21300062: allitemui_44
+    21300064: allitemui_45
+    21300066: allitemui_46
+    21300068: allitemui_47
+    21300070: allitemui_7
+    21300072: allitemui_8
+    21300074: allitemui_9
+    21300076: allitemui_10
+    21300078: allitemui_11
+    21300080: allitemui_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: 12
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: allitemui_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 926
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 34}
+        - {x: -33.5, y: -34}
+        - {x: 33.5, y: -34}
+        - {x: 33.5, y: 34}
+    - name: allitemui_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 926
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 32}
+        - {x: -32.5, y: -32}
+        - {x: 32.5, y: -32}
+        - {x: 32.5, y: 32}
+    - name: allitemui_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 924
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: 33}
+        - {x: -33, y: -33}
+        - {x: 33, y: -33}
+        - {x: 33, y: 33}
+    - name: allitemui_3
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 932
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 26}
+        - {x: -26, y: 25}
+        - {x: -26, y: -25}
+        - {x: -25, y: -26}
+        - {x: 26, y: -26}
+        - {x: 26, y: 26}
+    - name: allitemui_4
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 926
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.5, y: 33}
+        - {x: -33.5, y: -33}
+        - {x: 31.5, y: -33}
+        - {x: 33.5, y: -31}
+        - {x: 33.5, y: 32}
+        - {x: 31.5, y: 33}
+    - name: allitemui_20
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 934
+        width: 206
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -103, y: 28}
+        - {x: -103, y: -23}
+        - {x: 102, y: -23}
+        - {x: 103, y: -16}
+        - {x: 103, y: 24}
+        - {x: 95, y: 28}
+    - name: allitemui_21
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 563
+        width: 355
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.5, y: -152}
+        - {x: 40.5, y: -151}
+        - {x: 113.5, y: -150}
+        - {x: 117.5, y: -143}
+        - {x: 119.5, y: -131}
+        - {x: 124.5, y: -113}
+        - {x: 136.5, y: -69}
+        - {x: 141.5, y: -51}
+        - {x: 150.5, y: -18}
+        - {x: 158.5, y: 11}
+        - {x: 169.5, y: 51}
+        - {x: 173.5, y: 62}
+        - {x: 177.5, y: 79}
+        - {x: 177.5, y: 93}
+        - {x: 90.5, y: 125}
+        - {x: 54.5, y: 139}
+        - {x: 36.5, y: 140}
+        - {x: -143.5, y: 155}
+        - {x: -175.5, y: 155}
+        - {x: -175.5, y: 62}
+        - {x: -176.5, y: 61}
+        - {x: -176.5, y: -59}
+        - {x: -154.5, y: -103}
+        - {x: -154.5, y: -105}
+        - {x: -138.5, y: -138}
+        - {x: -129.5, y: -155}
+        - {x: -50.5, y: -155}
+    - name: allitemui_22
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 790
+        width: 359
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 174.5, y: 40.5}
+        - {x: -173.5, y: 40.5}
+        - {x: -179.5, y: 34.5}
+        - {x: -179.5, y: -33.5}
+        - {x: -173.5, y: -40.5}
+        - {x: 173.5, y: -40.5}
+        - {x: 179.5, y: -33.5}
+        - {x: 179.5, y: 34.5}
+    - name: allitemui_23
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 819
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 26}
+        - {x: -28, y: 25}
+        - {x: -28, y: -26}
+        - {x: 28, y: -26}
+        - {x: 28, y: 23}
+        - {x: 24, y: 26}
+    - name: allitemui_24
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 758
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 27}
+        - {x: -26, y: -27}
+        - {x: 26, y: -27}
+        - {x: 26, y: 27}
+    - name: allitemui_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 677
+        width: 359
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -179.5, y: 40.5}
+        - {x: -179.5, y: -40.5}
+        - {x: 179.5, y: -40.5}
+        - {x: 179.5, y: 40.5}
+    - name: allitemui_26
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 691
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 27}
+        - {x: -27, y: -26}
+        - {x: 27, y: -26}
+        - {x: 27, y: 27}
+    - name: allitemui_27
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 469
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 41}
+        - {x: -42, y: 36}
+        - {x: -42, y: -40}
+        - {x: -39, y: -41}
+        - {x: 42, y: -41}
+        - {x: 42, y: 41}
+    - name: allitemui_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 465
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 41}
+        - {x: -41, y: 37}
+        - {x: -41, y: -41}
+        - {x: 41, y: -41}
+        - {x: 41, y: 39}
+        - {x: 37, y: 41}
+    - name: allitemui_29
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 518
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 45}
+        - {x: -59, y: 45}
+        - {x: -62, y: 40}
+        - {x: -62, y: -40}
+        - {x: -58, y: -45}
+        - {x: 59, y: -45}
+        - {x: 62, y: -43}
+        - {x: 62, y: 43}
+    - name: allitemui_30
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 518
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 45}
+        - {x: -62, y: -45}
+        - {x: 58, y: -45}
+        - {x: 62, y: -44}
+        - {x: 62, y: 45}
+    - name: allitemui_31
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 518
+        width: 260
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: 45}
+        - {x: -130, y: 42}
+        - {x: -130, y: -39}
+        - {x: -124, y: -45}
+        - {x: 126, y: -45}
+        - {x: 130, y: -39}
+        - {x: 130, y: 39}
+        - {x: 126, y: 45}
+    - name: allitemui_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: allitemui_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 190
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 151.5, y: 144.5}
+        - {x: 149.5, y: 146.5}
+        - {x: -120.5, y: 146.5}
+        - {x: -120.5, y: 148.5}
+        - {x: -132.5, y: 148.5}
+        - {x: -132.5, y: 146.5}
+        - {x: -143.5, y: 146.5}
+        - {x: -148.5, y: 142.5}
+        - {x: -148.5, y: -144.5}
+        - {x: -144.5, y: -148.5}
+        - {x: 149.5, y: -148.5}
+        - {x: 153.5, y: -146.5}
+        - {x: 153.5, y: 143.5}
+        - {x: 152.5, y: 144.5}
+    - name: allitemui_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 378
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 41}
+        - {x: -41, y: -41}
+        - {x: 38, y: -41}
+        - {x: 41, y: -38}
+        - {x: 41, y: 37}
+        - {x: 39, y: 41}
+    - name: allitemui_35
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 456
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: allitemui_36
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 404
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 31}
+        - {x: -31.5, y: -31}
+        - {x: 32.5, y: -31}
+        - {x: 32.5, y: 27}
+        - {x: 28.5, y: 31}
+    - name: allitemui_37
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 404
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 31.5}
+        - {x: -32.5, y: -31.5}
+        - {x: 30.5, y: -31.5}
+        - {x: 32.5, y: -29.5}
+        - {x: 32.5, y: 27.5}
+        - {x: 27.5, y: 31.5}
+    - name: allitemui_38
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 374
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 39}
+        - {x: -41, y: 39}
+        - {x: -41, y: -40}
+        - {x: 36, y: -40}
+        - {x: 39, y: -37}
+        - {x: 39, y: 36}
+    - name: allitemui_39
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 410
+        width: 72
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: allitemui_40
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 358
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: allitemui_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 278
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 39}
+        - {x: -39, y: 38}
+        - {x: -39, y: -38}
+        - {x: -38, y: -39}
+        - {x: 39, y: -39}
+        - {x: 39, y: 39}
+    - name: allitemui_42
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 279
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 38.5}
+        - {x: -39, y: -38.5}
+        - {x: 39, y: -38.5}
+        - {x: 39, y: 38.5}
+    - name: allitemui_43
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 260
+        width: 412
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 202, y: 42.5}
+        - {x: -206, y: 42.5}
+        - {x: -206, y: -41.5}
+        - {x: -203, y: -42.5}
+        - {x: 202, y: -42.5}
+        - {x: 206, y: -39.5}
+        - {x: 206, y: 38.5}
+    - name: allitemui_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 76
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37, y: 28}
+        - {x: -38, y: 27}
+        - {x: -38, y: -27}
+        - {x: -37, y: -28}
+        - {x: 37, y: -28}
+        - {x: 38, y: -27}
+        - {x: 38, y: 28}
+    - name: allitemui_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 189
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 23}
+        - {x: -23.5, y: 17}
+        - {x: -23.5, y: -15}
+        - {x: -18.5, y: -23}
+        - {x: 22.5, y: -23}
+        - {x: 23.5, y: -20}
+        - {x: 23.5, y: 21}
+        - {x: 21.5, y: 23}
+    - name: allitemui_46
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 35
+        width: 412
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 206, y: 74.5}
+        - {x: 202, y: 78.5}
+        - {x: -203, y: 78.5}
+        - {x: -206, y: 75.5}
+        - {x: -206, y: -75.5}
+        - {x: -202, y: -78.5}
+        - {x: 202, y: -78.5}
+        - {x: 205, y: -75.5}
+        - {x: 205, y: -74.5}
+        - {x: 206, y: -73.5}
+    - name: allitemui_47
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 40
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 25.5}
+        - {x: -20, y: 3.5}
+        - {x: -20, y: -25.5}
+        - {x: 9, y: -25.5}
+        - {x: 20, y: -23.5}
+        - {x: 20, y: 23.5}
+        - {x: 15, y: 25.5}
+    - name: allitemui_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 957
+        width: 187
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: allitemui_6
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 107
+        width: 260
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -126, y: 18.5}
+        - {x: -126, y: -14.5}
+        - {x: 125, y: -14.5}
+        - {x: 125, y: 18.5}
+    - name: allitemui_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 89
+        width: 228
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107, y: 43}
+        - {x: -110, y: 43}
+        - {x: -114, y: 40}
+        - {x: -114, y: -37}
+        - {x: -109, y: -42}
+        - {x: 111, y: -42}
+        - {x: 112, y: -34}
+        - {x: 112, y: 41}
+    - name: allitemui_8
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 897
+        width: 123
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: 12}
+        - {x: -50.5, y: 12}
+        - {x: -54.5, y: 7}
+        - {x: -55.5, y: -3}
+        - {x: -55.5, y: -8}
+        - {x: -51.5, y: -10}
+        - {x: -41.5, y: -13}
+        - {x: 54.5, y: -13}
+        - {x: 54.5, y: 8}
+        - {x: 52.5, y: 10}
+    - name: allitemui_9
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 22
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 29}
+        - {x: -28, y: 27}
+        - {x: -28, y: 21}
+        - {x: 22, y: -28}
+        - {x: 29, y: -28}
+        - {x: 30, y: -26}
+        - {x: 30, y: -19}
+        - {x: -18, y: 29}
+    - name: allitemui_10
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 28
+        width: 174
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 23}
+        - {x: -80, y: 23}
+        - {x: -80, y: -19}
+        - {x: -78, y: -21}
+        - {x: 81, y: -21}
+        - {x: 83, y: -19}
+        - {x: 83, y: 17}
+        - {x: 81, y: 19}
+    - name: allitemui_11
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 28
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 19}
+        - {x: -20.5, y: 17}
+        - {x: -20.5, y: -19}
+        - {x: -18.5, y: -21}
+        - {x: 18.5, y: -21}
+        - {x: 24.5, y: -15}
+        - {x: 24.5, y: 13}
+        - {x: 18.5, y: 19}
+    - name: allitemui_12
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 28
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 22.5}
+        - {x: -22.5, y: 17.5}
+        - {x: -22.5, y: -15.5}
+        - {x: -19.5, y: -22.5}
+        - {x: 22.5, y: -22.5}
+        - {x: 22.5, y: 22.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

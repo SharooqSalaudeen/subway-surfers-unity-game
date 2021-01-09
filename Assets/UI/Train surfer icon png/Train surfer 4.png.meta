@@ -1,0 +1,423 @@
+fileFormatVersion: 2
+guid: de4c72c5fe6aef249b12302ed76909d5
+timeCreated: 1471616101
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Train surfer 4_0
+    21300002: Train surfer 4_1
+    21300004: Train surfer 4_2
+    21300006: Train surfer 4_3
+    21300008: Train surfer 4_4
+    21300010: Train surfer 4_5
+    21300012: Train surfer 4_6
+    21300014: Train surfer 4_7
+    21300016: Train surfer 4_8
+    21300018: Train surfer 4_9
+    21300020: Train surfer 4_10
+    21300022: Train surfer 4_11
+    21300024: Train surfer 4_12
+    21300026: Train surfer 4_13
+    21300028: Train surfer 4_14
+    21300030: Train surfer 4_15
+    21300032: Train surfer 4_16
+    21300034: Train surfer 4_17
+    21300036: Train surfer 4_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Train surfer 4_2
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1320
+        width: 394
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.63353, y: 50.743317}
+        - {x: -49.63353, y: 43.743317}
+        - {x: -49.63353, y: -50.256683}
+        - {x: 51.36647, y: -50.256683}
+        - {x: 51.36647, y: 49.743317}
+        - {x: 50.36647, y: 50.743317}
+    - name: Train surfer 4_3
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1109
+        width: 1963
+        height: 2429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 249.37387, y: -294.18497}
+        - {x: 249.37387, y: 295.81503}
+        - {x: 248.37387, y: 296.81503}
+        - {x: 247.37387, y: 300.81503}
+        - {x: 239.37387, y: 308.81503}
+        - {x: -237.62613, y: 308.81503}
+        - {x: -245.62613, y: 301.81503}
+        - {x: -246.62613, y: 298.81503}
+        - {x: -246.62613, y: 294.81503}
+        - {x: -247.62613, y: 293.81503}
+        - {x: -247.62613, y: 141.81503}
+        - {x: -246.62613, y: 140.81503}
+        - {x: -246.62613, y: -296.18497}
+        - {x: -244.62613, y: -301.18497}
+        - {x: -239.62613, y: -306.18497}
+        - {x: -236.62613, y: -307.18497}
+        - {x: 238.37387, y: -307.18497}
+        - {x: 241.37387, y: -306.18497}
+        - {x: 247.37387, y: -299.18497}
+        - {x: 248.37387, y: -295.18497}
+    - name: Train surfer 4_4
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 1591
+        width: 392
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.645935, y: 51.86447}
+        - {x: -49.645935, y: 50.86447}
+        - {x: -49.645935, y: -44.13553}
+        - {x: -43.645935, y: -49.13553}
+        - {x: 47.354065, y: -49.13553}
+        - {x: 50.354065, y: -44.13553}
+        - {x: 50.354065, y: 51.86447}
+    - name: Train surfer 4_5
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 272
+        width: 664
+        height: 642
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.516785, y: 82.87438}
+        - {x: -56.483215, y: 82.87438}
+        - {x: -84.483215, y: 70.87438}
+        - {x: -84.483215, y: -79.12562}
+        - {x: 78.516785, y: -79.12562}
+        - {x: 84.516785, y: -71.12562}
+        - {x: 84.516785, y: 29.874382}
+        - {x: 52.516785, y: 76.87438}
+    - name: Train surfer 4_6
+      rect:
+        serializedVersion: 2
+        x: 3100
+        y: 277
+        width: 701
+        height: 600
+      alignment: 9
+      pivot: {x: 0.7270706, y: 0.6061176}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -68.840515, y: 60.518135}
+        - {x: -128.84052, y: 60.518135}
+        - {x: -128.84052, y: -27.481865}
+        - {x: -123.840515, y: -83.481865}
+        - {x: -111.840515, y: -92.481865}
+        - {x: 42.159485, y: -92.481865}
+        - {x: 50.159485, y: -88.481865}
+        - {x: 50.159485, y: 19.518135}
+        - {x: 38.159485, y: 48.518135}
+    - name: Train surfer 4_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3768
+        width: 223
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.053907, y: 28.112732}
+        - {x: -28.053907, y: 22.112732}
+        - {x: -28.053907, y: -23.887268}
+        - {x: -20.053907, y: -27.887268}
+        - {x: 13.946093, y: -27.887268}
+        - {x: 18.946093, y: -26.887268}
+        - {x: 28.946093, y: -23.887268}
+        - {x: 28.946093, y: 26.112732}
+        - {x: 23.946093, y: 28.112732}
+    - name: Train surfer 4_8
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2914
+        width: 316
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.835312, y: 38.86743}
+        - {x: -21.835312, y: -9.132568}
+        - {x: -21.835312, y: -43.13257}
+        - {x: 13.164688, y: -43.13257}
+        - {x: 33.16469, y: -9.132568}
+        - {x: 33.16469, y: 38.86743}
+    - name: Train surfer 4_9
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2656
+        width: 566
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63.714638, y: 25.538025}
+        - {x: -71.71464, y: 19.538025}
+        - {x: -71.71464, y: -14.461975}
+        - {x: -70.71464, y: -22.461975}
+        - {x: 69.28536, y: -22.461975}
+        - {x: 72.28536, y: -14.461975}
+        - {x: 72.28536, y: 20.538025}
+        - {x: 67.28536, y: 25.538025}
+    - name: Train surfer 4_10
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 0
+        width: 1057
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 130.10236, y: 24.5}
+        - {x: -117.897644, y: 24.5}
+        - {x: -117.897644, y: -28.5}
+        - {x: -116.897644, y: -29.5}
+        - {x: 126.102356, y: -29.5}
+        - {x: 135.10236, y: -25.5}
+        - {x: 135.10236, y: 17.5}
+    - name: Train surfer 4_11
+      rect:
+        serializedVersion: 2
+        x: 3811
+        y: 3
+        width: 233
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.499084, y: 21.759644}
+        - {x: -24.499084, y: -31.240356}
+        - {x: 26.500916, y: -31.240356}
+        - {x: 29.500916, y: -30.240356}
+        - {x: 29.500916, y: 21.759644}
+    - name: Train surfer 4_12
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 58
+        width: 668
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84.41788, y: 61.686447}
+        - {x: -83.58212, y: 61.686447}
+        - {x: -83.58212, y: -54.313553}
+        - {x: -74.58212, y: -60.313553}
+        - {x: 78.41788, y: -60.313553}
+        - {x: 86.41788, y: -52.313553}
+        - {x: 86.41788, y: 56.686447}
+    - name: Train surfer 4_13
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 544
+        width: 661
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -83.57568, y: 60.748764}
+        - {x: -83.57568, y: -55.251236}
+        - {x: -76.57568, y: -59.251236}
+        - {x: 78.42432, y: -59.251236}
+        - {x: 84.42432, y: -52.251236}
+        - {x: 84.42432, y: 53.748764}
+        - {x: 76.42432, y: 60.748764}
+    - name: Train surfer 4_14
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 565
+        width: 662
+        height: 467
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -84.08062, y: 59.56627}
+        - {x: -84.08062, y: -59.43373}
+        - {x: 77.91938, y: -59.43373}
+        - {x: 84.91938, y: -50.43373}
+        - {x: 84.91938, y: 51.56627}
+        - {x: 79.91938, y: 59.56627}
+    - name: Train surfer 4_15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 55
+        width: 664
+        height: 476
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -76.093475, y: 61.926804}
+        - {x: -84.093475, y: 53.926804}
+        - {x: -84.093475, y: -54.073196}
+        - {x: -74.093475, y: -60.073196}
+        - {x: 76.906525, y: -60.073196}
+        - {x: 84.906525, y: -54.073196}
+        - {x: 84.906525, y: 55.926804}
+        - {x: 83.906525, y: 61.926804}
+    - name: Train surfer 4_16
+      rect:
+        serializedVersion: 2
+        x: 3491
+        y: 2095
+        width: 439
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -55.52771, y: 53.48462}
+        - {x: -55.52771, y: -52.51538}
+        - {x: 57.47229, y: -52.51538}
+        - {x: 57.47229, y: 53.48462}
+    - name: Train surfer 4_17
+      rect:
+        serializedVersion: 2
+        x: 2999
+        y: 2098
+        width: 422
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.390686, y: 53.744263}
+        - {x: -46.609314, y: 53.744263}
+        - {x: -53.609314, y: 47.744263}
+        - {x: -53.609314, y: -47.255737}
+        - {x: -46.609314, y: -54.255737}
+        - {x: 45.390686, y: -54.255737}
+        - {x: 54.390686, y: -49.255737}
+        - {x: 54.390686, y: 46.744263}
+    - name: Train surfer 4_18
+      rect:
+        serializedVersion: 2
+        x: 2895
+        y: 934
+        width: 1120
+        height: 409
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 142.05634, y: 39.002457}
+        - {x: 141.05634, y: 45.002457}
+        - {x: 132.05634, y: 52.002457}
+        - {x: -134.94366, y: 52.002457}
+        - {x: -141.94366, y: 44.002457}
+        - {x: -141.94366, y: -45.997543}
+        - {x: -130.94366, y: -51.997543}
+        - {x: 130.05634, y: -51.997543}
+        - {x: 135.05634, y: -49.997543}
+        - {x: 140.05634, y: -44.997543}
+        - {x: 142.05634, y: -39.997543}
+    - name: Train surfer 4_0
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3677
+        width: 368
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.637985, y: 46.57019}
+        - {x: -46.637985, y: 28.57019}
+        - {x: -46.637985, y: -30.42981}
+        - {x: -42.637985, y: -46.42981}
+        - {x: 41.362015, y: -46.42981}
+        - {x: 47.362015, y: -26.42981}
+        - {x: 47.362015, y: 27.57019}
+        - {x: 29.362015, y: 46.57019}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

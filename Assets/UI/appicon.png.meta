@@ -1,0 +1,157 @@
+fileFormatVersion: 2
+guid: c0f619f881231514fb0b495db2d4d6c9
+timeCreated: 1469602953
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: appicon_0
+    21300002: appicon_1
+    21300004: appicon_2
+    21300006: appicon_3
+    21300008: appicon_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: appicon_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 172
+        width: 155
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77.5, y: 75.5}
+        - {x: -77.5, y: 75.5}
+        - {x: -77.5, y: -72.5}
+        - {x: -74.5, y: -75.5}
+        - {x: 70.5, y: -75.5}
+        - {x: 74.5, y: -72.5}
+        - {x: 77.5, y: -70.5}
+    - name: appicon_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 172
+        width: 154
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: 75.5}
+        - {x: -77, y: -73.5}
+        - {x: -76, y: -75.5}
+        - {x: 71, y: -75.5}
+        - {x: 73, y: -74.5}
+        - {x: 77, y: -67.5}
+        - {x: 77, y: 75.5}
+    - name: appicon_2
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 172
+        width: 151
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -75.5, y: 75.5}
+        - {x: -75.5, y: -72.5}
+        - {x: -72.5, y: -75.5}
+        - {x: 72.5, y: -75.5}
+        - {x: 75.5, y: -72.5}
+        - {x: 75.5, y: 75.5}
+    - name: appicon_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 12
+        width: 151
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -74.5, y: 74.5}
+        - {x: -75.5, y: 73.5}
+        - {x: -75.5, y: -72.5}
+        - {x: -73.5, y: -74.5}
+        - {x: 72.5, y: -74.5}
+        - {x: 75.5, y: -72.5}
+        - {x: 75.5, y: 74.5}
+    - name: appicon_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 12
+        width: 149
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71.5, y: 74}
+        - {x: -74.5, y: 72}
+        - {x: -74.5, y: -73}
+        - {x: -72.5, y: -74}
+        - {x: 71.5, y: -74}
+        - {x: 74.5, y: -71}
+        - {x: 74.5, y: 71}
+        - {x: 71.5, y: 74}
+    outline: []
+  spritePackingTag: UI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

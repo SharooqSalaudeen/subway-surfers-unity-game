@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: 846d9efe2ba271443ab67307148fde56
+timeCreated: 1467388226
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: pCube166
+    100002: pCube182
+    100004: pCube183
+    100006: pCube184
+    100008: pCylinder80
+    100010: pCylinder81
+    100012: pCylinder82
+    100014: pCylinder83
+    100016: pCylinder84
+    100018: pCylinder85
+    100020: polySurface10
+    100022: polySurface9
+    100024: pPlane29
+    100026: //RootNode
+    400000: pCube166
+    400002: pCube182
+    400004: pCube183
+    400006: pCube184
+    400008: pCylinder80
+    400010: pCylinder81
+    400012: pCylinder82
+    400014: pCylinder83
+    400016: pCylinder84
+    400018: pCylinder85
+    400020: polySurface10
+    400022: polySurface9
+    400024: pPlane29
+    400026: //RootNode
+    2300000: pCube166
+    2300002: pCube182
+    2300004: pCube183
+    2300006: pCube184
+    2300008: pCylinder81
+    2300010: pCylinder82
+    2300012: pCylinder83
+    2300014: pCylinder84
+    2300016: pCylinder85
+    2300018: polySurface10
+    2300020: polySurface9
+    2300022: pPlane29
+    3300000: pCube166
+    3300002: pCube182
+    3300004: pCube183
+    3300006: pCube184
+    3300008: pCylinder81
+    3300010: pCylinder82
+    3300012: pCylinder83
+    3300014: pCylinder84
+    3300016: pCylinder85
+    3300018: polySurface10
+    3300020: polySurface9
+    3300022: pPlane29
+    4300000: pCube166
+    4300002: pPlane29
+    4300004: polySurface9
+    4300006: polySurface10
+    4300008: pCylinder81
+    4300010: pCylinder82
+    4300012: pCylinder83
+    4300014: pCube182
+    4300016: pCylinder84
+    4300018: pCylinder85
+    4300020: pCube183
+    4300022: pCube184
+    6400000: pCube166
+    6400002: pCube182
+    6400004: pCube183
+    6400006: pCube184
+    6400008: pCylinder81
+    6400010: pCylinder82
+    6400012: pCylinder83
+    6400014: pCylinder84
+    6400016: pCylinder85
+    6400018: polySurface10
+    6400020: polySurface9
+    6400022: pPlane29
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

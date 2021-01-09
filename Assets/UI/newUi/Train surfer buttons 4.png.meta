@@ -1,0 +1,245 @@
+fileFormatVersion: 2
+guid: 648583cc2247b0647aafcda72923225a
+timeCreated: 1469076842
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Train surfer buttons 4_0
+    21300002: Train surfer buttons 4_1
+    21300004: Train surfer buttons 4_2
+    21300006: Train surfer buttons 4_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Train surfer buttons 4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1147
+        width: 410
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 117.5, y: 147.73022}
+        - {x: -89.5, y: 147.73022}
+        - {x: -147.5, y: 132.73022}
+        - {x: -147.5, y: -74.269775}
+        - {x: -114.5, y: -145.26978}
+        - {x: -94.5, y: -147.26978}
+        - {x: 77.5, y: -147.26978}
+        - {x: 121.5, y: -105.269775}
+        - {x: 147.5, y: -38.269775}
+        - {x: 147.5, y: 84.730225}
+      - - {x: -108.5, y: -66.269775}
+        - {x: -124.5, y: 31.730225}
+        - {x: 87.5, y: 92.730225}
+        - {x: 94.5, y: -82.269775}
+        - {x: 9.5, y: -126.269775}
+    - name: Train surfer buttons 4_1
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 1172
+        width: 378
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136.18604, y: 41.19513}
+        - {x: 132.18604, y: 59.19513}
+        - {x: -30.813965, y: 66.19513}
+        - {x: -47.813965, y: 75.19513}
+        - {x: -102.813965, y: 75.19513}
+        - {x: -118.813965, y: 44.19513}
+        - {x: -135.81396, y: -45.80487}
+        - {x: -135.81396, y: -63.80487}
+        - {x: -127.813965, y: -72.80487}
+        - {x: -118.813965, y: -74.80487}
+        - {x: -87.813965, y: -74.80487}
+        - {x: -72.813965, y: -55.80487}
+        - {x: 111.186035, y: -58.80487}
+        - {x: 136.18604, y: -44.80487}
+    - name: Train surfer buttons 4_2
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 0
+        width: 1162
+        height: 829
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 396.61966, y: -295}
+        - {x: 399.61966, y: -292}
+        - {x: 400.61966, y: -292}
+        - {x: 408.61966, y: -285}
+        - {x: 408.61966, y: -284}
+        - {x: 413.61966, y: -279}
+        - {x: 416.61966, y: -272}
+        - {x: 416.61966, y: -270}
+        - {x: 417.61966, y: -269}
+        - {x: 417.61966, y: -267}
+        - {x: 418.61966, y: -265}
+        - {x: 418.61966, y: 265}
+        - {x: 416.61966, y: 268}
+        - {x: 416.61966, y: 271}
+        - {x: 413.61966, y: 278}
+        - {x: 411.61966, y: 279}
+        - {x: 411.61966, y: 280}
+        - {x: 400.61966, y: 291}
+        - {x: 399.61966, y: 291}
+        - {x: 396.61966, y: 294}
+        - {x: 394.61966, y: 294}
+        - {x: 389.61966, y: 297}
+        - {x: 383.61966, y: 298}
+        - {x: -383.38034, y: 298}
+        - {x: -385.38034, y: 297}
+        - {x: -389.38034, y: 297}
+        - {x: -393.38034, y: 294}
+        - {x: -395.38034, y: 294}
+        - {x: -404.38034, y: 287}
+        - {x: -406.38034, y: 286}
+        - {x: -409.38034, y: 283}
+        - {x: -412.38034, y: 277}
+        - {x: -414.38034, y: 274}
+        - {x: -414.38034, y: 272}
+        - {x: -417.38034, y: 267}
+        - {x: -417.38034, y: -268}
+        - {x: -414.38034, y: -273}
+        - {x: -414.38034, y: -275}
+        - {x: -412.38034, y: -280}
+        - {x: -409.38034, y: -282}
+        - {x: -409.38034, y: -283}
+        - {x: -402.38034, y: -290}
+        - {x: -401.38034, y: -290}
+        - {x: -398.38034, y: -294}
+        - {x: -391.38034, y: -297}
+        - {x: -389.38034, y: -297}
+        - {x: -388.38034, y: -298}
+        - {x: 388.61966, y: -298}
+        - {x: 389.61966, y: -297}
+        - {x: 392.61966, y: -297}
+        - {x: 394.61966, y: -295}
+    - name: Train surfer buttons 4_3
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 634
+        width: 1022
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 346.09448, y: -172.40982}
+        - {x: 351.09448, y: -170.40982}
+        - {x: 353.09448, y: -167.40982}
+        - {x: 354.09448, y: -167.40982}
+        - {x: 362.09448, y: -159.40982}
+        - {x: 362.09448, y: -158.40982}
+        - {x: 365.09448, y: -155.40982}
+        - {x: 365.09448, y: -153.40982}
+        - {x: 367.09448, y: -151.40982}
+        - {x: 367.09448, y: -149.40982}
+        - {x: 368.09448, y: -148.40982}
+        - {x: 368.09448, y: 149.59018}
+        - {x: 367.09448, y: 150.59018}
+        - {x: 367.09448, y: 152.59018}
+        - {x: 365.09448, y: 154.59018}
+        - {x: 365.09448, y: 156.59018}
+        - {x: 362.09448, y: 159.59018}
+        - {x: 362.09448, y: 160.59018}
+        - {x: 353.09448, y: 169.59018}
+        - {x: 352.09448, y: 169.59018}
+        - {x: 347.09448, y: 173.59018}
+        - {x: 344.09448, y: 173.59018}
+        - {x: 342.09448, y: 175.59018}
+        - {x: 340.09448, y: 175.59018}
+        - {x: 339.09448, y: 176.59018}
+        - {x: -336.90552, y: 176.59018}
+        - {x: -341.90552, y: 173.59018}
+        - {x: -343.90552, y: 173.59018}
+        - {x: -346.90552, y: 171.59018}
+        - {x: -352.90552, y: 168.59018}
+        - {x: -358.90552, y: 161.59018}
+        - {x: -358.90552, y: 160.59018}
+        - {x: -361.90552, y: 158.59018}
+        - {x: -364.90552, y: 151.59018}
+        - {x: -364.90552, y: 149.59018}
+        - {x: -366.90552, y: 147.59018}
+        - {x: -366.90552, y: -145.40982}
+        - {x: -364.90552, y: -148.40982}
+        - {x: -364.90552, y: -150.40982}
+        - {x: -361.90552, y: -157.40982}
+        - {x: -354.90552, y: -164.40982}
+        - {x: -353.90552, y: -164.40982}
+        - {x: -352.90552, y: -167.40982}
+        - {x: -346.90552, y: -170.40982}
+        - {x: -343.90552, y: -172.40982}
+        - {x: -341.90552, y: -172.40982}
+        - {x: -338.90552, y: -174.40982}
+        - {x: -335.90552, y: -175.40982}
+        - {x: 339.09448, y: -175.40982}
+        - {x: 344.09448, y: -172.40982}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

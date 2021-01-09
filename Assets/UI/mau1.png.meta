@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 07bdfb8d4b98a474683ee505e5470eac
+timeCreated: 1470019417
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mau1_0
+    21300002: mau1_1
+    21300004: mau1_2
+    21300006: mau1_3
+    21300008: mau1_4
+    21300010: mau1_5
+    21300012: mau1_15
+    21300014: mau1_16
+    21300016: mau1_17
+    21300018: mau1_18
+    21300020: mau1_19
+    21300022: mau1_20
+    21300024: mau1_21
+    21300026: mau1_22
+    21300028: mau1_23
+    21300030: mau1_31
+    21300032: mau1_32
+    21300034: mau1_33
+    21300036: mau1_6
+    21300038: mau1_7
+    21300040: mau1_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: 12
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: mau1_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 936
+        width: 103
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 37.5}
+        - {x: -51.5, y: -37.5}
+        - {x: 51.5, y: -37.5}
+        - {x: 51.5, y: 37.5}
+    - name: mau1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 936
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 38}
+        - {x: -51.5, y: -38}
+        - {x: 51.5, y: -38}
+        - {x: 51.5, y: 38}
+    - name: mau1_2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 936
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5, y: 38}
+        - {x: -51.5, y: -38}
+        - {x: 51.5, y: -38}
+        - {x: 51.5, y: 38}
+    - name: mau1_3
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 936
+        width: 104
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 38}
+        - {x: -48, y: 38}
+        - {x: -52, y: 35}
+        - {x: -52, y: -36}
+        - {x: -50, y: -38}
+        - {x: 49, y: -38}
+        - {x: 51, y: -35}
+        - {x: 52, y: -34}
+        - {x: 52, y: 34}
+    - name: mau1_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 186
+        width: 465
+        height: 826
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -232.5, y: 413}
+        - {x: -232.5, y: -413}
+        - {x: 232.5, y: -413}
+        - {x: 232.5, y: 413}
+    - name: mau1_5
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 847
+        width: 251
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -124.5, y: 20.5}
+        - {x: -125.5, y: 14.5}
+        - {x: -125.5, y: -20.5}
+        - {x: 125.5, y: -20.5}
+        - {x: 125.5, y: 20.5}
+    - name: mau1_15
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 779
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 26}
+        - {x: -26.5, y: 24}
+        - {x: -26.5, y: -24}
+        - {x: -24.5, y: -26}
+        - {x: 26.5, y: -26}
+        - {x: 26.5, y: 26}
+    - name: mau1_16
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 616
+        width: 412
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -204, y: 42.5}
+        - {x: -206, y: 39.5}
+        - {x: -206, y: -39.5}
+        - {x: -203, y: -42.5}
+        - {x: 206, y: -42.5}
+        - {x: 206, y: 42.5}
+    - name: mau1_17
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 683
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 26}
+        - {x: -25, y: -25}
+        - {x: -24, y: -26}
+        - {x: 25, y: -26}
+        - {x: 25, y: 26}
+    - name: mau1_18
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 587
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.5, y: 26}
+        - {x: -26.5, y: 24}
+        - {x: -26.5, y: -22}
+        - {x: -22.5, y: -26}
+        - {x: 26.5, y: -26}
+        - {x: 26.5, y: 26}
+    - name: mau1_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 367
+        width: 413
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 202.5, y: 78.5}
+        - {x: -203.5, y: 78.5}
+        - {x: -206.5, y: 75.5}
+        - {x: -206.5, y: -75.5}
+        - {x: -204.5, y: -78.5}
+        - {x: 201.5, y: -78.5}
+        - {x: 206.5, y: -74.5}
+        - {x: 206.5, y: 73.5}
+    - name: mau1_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 491
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 27}
+        - {x: -26.5, y: -23}
+        - {x: -22.5, y: -27}
+        - {x: 26.5, y: -27}
+        - {x: 26.5, y: 27}
+    - name: mau1_21
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 347
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mau1_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 328
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mau1_23
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 291
+        width: 185
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: mau1_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 4
+        width: 274
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 92, y: 70}
+        - {x: 70, y: 71}
+        - {x: 26, y: 92}
+        - {x: -21, y: 92}
+        - {x: -30, y: 85}
+        - {x: -96, y: 73}
+        - {x: -121, y: 63}
+        - {x: -134, y: 49}
+        - {x: -137, y: 44}
+        - {x: -137, y: -62}
+        - {x: -110, y: -92}
+        - {x: 128, y: -92}
+        - {x: 137, y: -74}
+        - {x: 137, y: 42}
+        - {x: 131, y: 48}
+    - name: mau1_32
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 148
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 90}
+        - {x: -74, y: 83}
+        - {x: -74, y: -76}
+        - {x: -54, y: -90}
+        - {x: 69, y: -90}
+        - {x: 74, y: -72}
+        - {x: 74, y: 56}
+        - {x: 32, y: 90}
+    - name: mau1_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 7
+        width: 220
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51, y: 80.5}
+        - {x: -81, y: 70.5}
+        - {x: -110, y: 54.5}
+        - {x: -110, y: -53.5}
+        - {x: -100, y: -65.5}
+        - {x: -91, y: -76.5}
+        - {x: -83, y: -80.5}
+        - {x: 69, y: -80.5}
+        - {x: 110, y: -55.5}
+        - {x: 110, y: 65.5}
+        - {x: 64, y: 80.5}
+    - name: mau1_6
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 754
+        width: 248
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -118, y: 22.5}
+        - {x: -121, y: 13.5}
+        - {x: -121, y: -19.5}
+        - {x: -97, y: -23.5}
+        - {x: -55, y: -23.5}
+        - {x: -48, y: -16.5}
+        - {x: -44, y: -13.5}
+        - {x: -44, y: -10.5}
+        - {x: -43, y: -11.5}
+        - {x: -45, y: -15.5}
+        - {x: -46, y: -20.5}
+        - {x: -41, y: -23.5}
+        - {x: -3, y: -23.5}
+        - {x: 6, y: -22.5}
+        - {x: 28, y: -15.5}
+        - {x: 28, y: 14.5}
+        - {x: 20, y: 22.5}
+      - - {x: 35, y: 19.5}
+        - {x: 35, y: -14.5}
+        - {x: 36, y: -16.5}
+        - {x: 124, y: -16.5}
+        - {x: 124, y: 13.5}
+        - {x: 123, y: 19.5}
+    - name: mau1_7
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 187
+        width: 262
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -123, y: -31.5}
+        - {x: -124, y: -28.5}
+        - {x: -131, y: -28.5}
+        - {x: -131, y: -31.5}
+      - - {x: 13, y: 12.5}
+        - {x: 13, y: -31.5}
+        - {x: 113, y: -31.5}
+        - {x: 114, y: -30.5}
+        - {x: 114, y: 10.5}
+        - {x: 97, y: 12.5}
+      - - {x: -25, y: 21.5}
+        - {x: -41, y: 21.5}
+        - {x: -44, y: 16.5}
+        - {x: -44, y: -1.5}
+        - {x: -41, y: -18.5}
+        - {x: -25, y: -19.5}
+        - {x: 1, y: -19.5}
+        - {x: 8, y: -14.5}
+        - {x: 8, y: 7.5}
+        - {x: 0, y: 12.5}
+      - - {x: -131, y: 29.5}
+        - {x: -131, y: -18.5}
+        - {x: -49, y: -18.5}
+        - {x: -49, y: 18.5}
+        - {x: -94, y: 29.5}
+    - name: mau1_8
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3
+        width: 118
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 76}
+        - {x: -59, y: -76}
+        - {x: 56, y: -76}
+        - {x: 59, y: -73}
+        - {x: 59, y: 76}
+    outline: []
+  spritePackingTag: UI
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 41ece8eb30232fd48a05ffaf13b7339d
+timeCreated: 1469075983
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Train surfer button 5_0
+    21300002: Train surfer button 5_1
+    21300004: Train surfer button 5_2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 6
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: Train surfer button 5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 497
+        width: 421
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 144, y: -94.35724}
+        - {x: 149, y: -87.35724}
+        - {x: 151, y: -83.35724}
+        - {x: 151, y: 85.64276}
+        - {x: 145, y: 96.64276}
+        - {x: 138, y: 102.64276}
+        - {x: 129, y: 107.64276}
+        - {x: 127, y: 108.64276}
+        - {x: -130, y: 108.64276}
+        - {x: -138, y: 103.64276}
+        - {x: -148, y: 91.64276}
+        - {x: -150, y: 86.64276}
+        - {x: -151, y: 84.64276}
+        - {x: -151, y: -84.35724}
+        - {x: -147, y: -92.35724}
+        - {x: -139, y: -101.35724}
+        - {x: -133, y: -105.35724}
+        - {x: -126, y: -108.35724}
+        - {x: 125, y: -108.35724}
+        - {x: 130, y: -106.35724}
+        - {x: 135, y: -103.35724}
+    - name: Train surfer button 5_1
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 495
+        width: 398
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 136.7096, y: -88.290405}
+        - {x: 142.7096, y: -79.290405}
+        - {x: 143.7096, y: -77.290405}
+        - {x: 143.7096, y: 82.709595}
+        - {x: 138.7096, y: 90.709595}
+        - {x: 126.709595, y: 100.709595}
+        - {x: 120.709595, y: 103.709595}
+        - {x: -119.290405, y: 103.709595}
+        - {x: -135.2904, y: 91.709595}
+        - {x: -140.2904, y: 84.709595}
+        - {x: -142.2904, y: 76.709595}
+        - {x: -142.2904, y: -77.290405}
+        - {x: -137.2904, y: -86.290405}
+        - {x: -123.290405, y: -99.290405}
+        - {x: -114.290405, y: -102.290405}
+        - {x: 116.709595, y: -102.290405}
+        - {x: 125.709595, y: -98.290405}
+        - {x: 131.7096, y: -93.290405}
+    - name: Train surfer button 5_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 0
+        width: 1021
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 358.3667, y: -113}
+        - {x: 361.3667, y: -110}
+        - {x: 361.3667, y: -109}
+        - {x: 365.3667, y: -104}
+        - {x: 365.3667, y: -101}
+        - {x: 366.3667, y: -100}
+        - {x: 366.3667, y: 99}
+        - {x: 365.3667, y: 100}
+        - {x: 365.3667, y: 103}
+        - {x: 363.3667, y: 106}
+        - {x: 362.3667, y: 109}
+        - {x: 358.3667, y: 113}
+        - {x: 357.3667, y: 115}
+        - {x: 355.3667, y: 115}
+        - {x: 351.3667, y: 120}
+        - {x: 348.3667, y: 121}
+        - {x: 345.3667, y: 123}
+        - {x: 343.3667, y: 123}
+        - {x: 340.3667, y: 125}
+        - {x: -338.6333, y: 125}
+        - {x: -339.6333, y: 124}
+        - {x: -341.6333, y: 124}
+        - {x: -346.6333, y: 122}
+        - {x: -347.6333, y: 120}
+        - {x: -348.6333, y: 120}
+        - {x: -353.6333, y: 116}
+        - {x: -355.6333, y: 115}
+        - {x: -358.6333, y: 111}
+        - {x: -358.6333, y: 110}
+        - {x: -361.6333, y: 108}
+        - {x: -364.6333, y: 101}
+        - {x: -364.6333, y: 99}
+        - {x: -365.6333, y: 98}
+        - {x: -365.6333, y: -100}
+        - {x: -362.6333, y: -107}
+        - {x: -360.6333, y: -109}
+        - {x: -358.6333, y: -113}
+        - {x: -351.6333, y: -119}
+        - {x: -350.6333, y: -119}
+        - {x: -347.6333, y: -122}
+        - {x: -345.6333, y: -122}
+        - {x: -343.6333, y: -124}
+        - {x: -341.6333, y: -124}
+        - {x: -340.6333, y: -125}
+        - {x: 342.3667, y: -125}
+        - {x: 343.3667, y: -124}
+        - {x: 345.3667, y: -124}
+        - {x: 358.3667, y: -114}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

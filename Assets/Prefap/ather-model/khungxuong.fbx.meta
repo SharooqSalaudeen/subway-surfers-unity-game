@@ -1,0 +1,554 @@
+fileFormatVersion: 2
+guid: a286b97cd9b72bd4da31b5fb2537d7de
+timeCreated: 1462955608
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: banchanphai
+    100002: banchantrai
+    100004: co_tay_phai
+    100006: co_tay_trai
+    100008: goi_trai
+    100010: goiphai
+    100012: //RootNode
+    100014: khuyu_phai
+    100016: khuyutrai
+    100018: lung1
+    100020: lung2
+    100022: matcaphai
+    100024: matcatrai
+    100026: muichanphai
+    100028: muichantrai
+    100030: ngon_cai2
+    100032: ngoncai1
+    100034: ngoncai1 1
+    100036: ngoncai2
+    100038: ngoncai3
+    100040: ngoncai3 1
+    100042: ngongiua1
+    100044: ngongiua1 1
+    100046: ngongiua2
+    100048: ngongiua2 1
+    100050: ngongiua3
+    100052: ngongiua3 1
+    100054: ngongiua4
+    100056: ngongiua4 1
+    100058: ngontro1
+    100060: ngontro1 1
+    100062: ngontro2
+    100064: ngontro2 1
+    100066: ngontro3
+    100068: ngontro3 1
+    100070: ngontro4
+    100072: ngontro4 1
+    100074: polySurface33
+    100076: xuong_chan_phai
+    100078: xuong_chantrai
+    100080: xuong_co
+    100082: xuong_dau
+    100084: xuong_goc
+    100086: xuong_tay_phai
+    100088: xuong_tay_trai
+    100090: xuong_vai
+    400000: banchanphai
+    400002: banchantrai
+    400004: co_tay_phai
+    400006: co_tay_trai
+    400008: goi_trai
+    400010: goiphai
+    400012: //RootNode
+    400014: khuyu_phai
+    400016: khuyutrai
+    400018: lung1
+    400020: lung2
+    400022: matcaphai
+    400024: matcatrai
+    400026: muichanphai
+    400028: muichantrai
+    400030: ngon_cai2
+    400032: ngoncai1
+    400034: ngoncai1 1
+    400036: ngoncai2
+    400038: ngoncai3
+    400040: ngoncai3 1
+    400042: ngongiua1
+    400044: ngongiua1 1
+    400046: ngongiua2
+    400048: ngongiua2 1
+    400050: ngongiua3
+    400052: ngongiua3 1
+    400054: ngongiua4
+    400056: ngongiua4 1
+    400058: ngontro1
+    400060: ngontro1 1
+    400062: ngontro2
+    400064: ngontro2 1
+    400066: ngontro3
+    400068: ngontro3 1
+    400070: ngontro4
+    400072: ngontro4 1
+    400074: polySurface33
+    400076: xuong_chan_phai
+    400078: xuong_chantrai
+    400080: xuong_co
+    400082: xuong_dau
+    400084: xuong_goc
+    400086: xuong_tay_phai
+    400088: xuong_tay_trai
+    400090: xuong_vai
+    4300000: polySurface33
+    9500000: //RootNode
+    13700000: polySurface33
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: '
+
+      Imported file ''khungxuong'' conversion failed: Required human bone ''Head''
+      not found
+
+
+'
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 25
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: xuong_goc
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: xuong_chantrai
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: xuong_chan_phai
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goi_trai
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: goiphai
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: matcatrai
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: matcaphai
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: lung1
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: xuong_vai
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: co_tay_trai
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: khuyu_phai
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ngontro1 1
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: co_tay_phai
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ngontro2 1
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ngontro1
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ngontro3 1
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: ngontro2
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: banchantrai
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: banchanphai
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: khungxuong(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: polySurface33
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xuong_goc
+      position: {x: -0.0004341565, y: 0.79491764, z: -0.048835948}
+      rotation: {x: -0.002947616, y: -0.002658389, z: -0.7015265, w: 0.7126323}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: lung1
+      position: {x: -0.12947552, y: 0, z: 0.016162418}
+      rotation: {x: 0.00013410913, y: -0.007706208, z: -0.007701311, w: 0.99994063}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: lung2
+      position: {x: -0.114221156, y: 1.3704315e-16, z: 0.0113973385}
+      rotation: {x: 0.999684, y: -0.0071882266, z: -0.02409005, w: -0.00015417575}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xuong_vai
+      position: {x: -0.14724025, y: 1.179612e-16, z: 0.005510226}
+      rotation: {x: -0.00042700724, y: -0.049536522, z: -0.008609146, w: 0.99873513}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xuong_co
+      position: {x: -0.07107094, y: 2.4286129e-17, z: 0.019789852}
+      rotation: {x: -0.000000020104643, y: -7.489495e-11, z: 0.0026737705, w: 0.9999964}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xuong_dau
+      position: {x: -0.39666495, y: -0.0004170812, z: 0.047728468}
+      rotation: {x: -0.7052136, y: 0.70899487, z: 4.3413416e-17, w: -4.318188e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xuong_tay_phai
+      position: {x: 0.030817538, y: -0.17040035, z: 0.04562258}
+      rotation: {x: -0.042584125, y: 0.025852768, z: -0.5556065, w: 0.8299516}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: khuyu_phai
+      position: {x: 0.24875343, y: -0.011930278, z: 0.018102}
+      rotation: {x: -0.0061438615, y: -0.006272911, z: -0.059947856, w: 0.9981629}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: co_tay_phai
+      position: {x: 0.23204401, y: 0.0133799035, z: -0.01531725}
+      rotation: {x: -0.01504436, y: -0.24098483, z: -0.40887305, w: 0.88006973}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngoncai1
+      position: {x: 0.0489975, y: 0.025125, z: -0.06810445}
+      rotation: {x: 0, y: 0, z: 0.3034963, w: 0.95283264}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngon_cai2
+      position: {x: 0.05351115, y: 0.0000014291985, z: -0.030720325}
+      rotation: {x: 0, y: 0, z: 0.09722588, w: 0.9952623}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngoncai3
+      position: {x: 0.060078535, y: -0.0000004917331, z: -0.036234226}
+      rotation: {x: 0, y: -0, z: -0.3946984, w: 0.9188107}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngongiua1
+      position: {x: 0.02362, y: 0.03456, z: 0.03825625}
+      rotation: {x: 0, y: 0, z: 0.36761642, w: 0.92997754}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngongiua2
+      position: {x: 0.098274365, y: -0.00000012928045, z: -0.006327}
+      rotation: {x: 0, y: 0, z: 0.003436723, w: 0.9999941}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngongiua3
+      position: {x: 0.07788333, y: 0.0000005437496, z: -0.00497125}
+      rotation: {x: 0, y: 0, z: 0.060824495, w: 0.9981485}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngongiua4
+      position: {x: 0.061304703, y: -0.00069644605, z: -0.0090385}
+      rotation: {x: 0, y: -0, z: -0.426612, w: 0.90443474}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngontro1
+      position: {x: 0.04231, y: 0.03456, z: -0.0338975}
+      rotation: {x: -0.074364774, y: 0.18053319, z: 0.31987685, w: 0.9271227}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngontro2
+      position: {x: 0.098274365, y: -0.00000012928045, z: -0.006327}
+      rotation: {x: 0, y: 0, z: 0.003436723, w: 0.9999941}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngontro3
+      position: {x: 0.07788333, y: 0.0000005437496, z: -0.00497125}
+      rotation: {x: 0, y: 0, z: 0.060824495, w: 0.9981485}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngontro4
+      position: {x: 0.061304703, y: -0.00069644605, z: -0.009038525}
+      rotation: {x: 0, y: -0, z: -0.426612, w: 0.90443474}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xuong_tay_trai
+      position: {x: 0.030817024, y: 0.1689104, z: 0.045622475}
+      rotation: {x: -0.555591, y: 0.8299214, z: 0.043157514, w: -0.026200728}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: khuyutrai
+      position: {x: -0.24875335, y: 0.011930529, z: -0.018102223}
+      rotation: {x: -4.712007e-18, y: 4.9506783e-16, z: 0.042456172, w: 0.99909836}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: co_tay_trai
+      position: {x: -0.23204489, y: -0.013381275, z: 0.015317266}
+      rotation: {x: -0.049975637, y: -0.16160466, z: -0.40835577, w: 0.8970128}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngoncai1 1
+      position: {x: -0.048997387, y: -0.025125084, z: 0.06810455}
+      rotation: {x: 0, y: 0, z: 0.3034963, w: 0.95283264}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngoncai2
+      position: {x: -0.05351125, y: -1.110223e-16, z: 0.03072032}
+      rotation: {x: 0, y: 0, z: 0.09722588, w: 0.9952623}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngoncai3 1
+      position: {x: -0.060076844, y: 1.110223e-16, z: 0.036234222}
+      rotation: {x: 0, y: -0, z: -0.3946984, w: 0.9188107}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngongiua1 1
+      position: {x: -0.023619575, y: -0.03455827, z: -0.038256142}
+      rotation: {x: 0, y: 0, z: 0.36761642, w: 0.92997754}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngongiua2 1
+      position: {x: -0.09827381, y: -1.110223e-16, z: 0.0063269823}
+      rotation: {x: 0, y: 0, z: 0.003436723, w: 0.9999941}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngongiua3 1
+      position: {x: -0.077884406, y: -6.661338e-16, z: 0.0049712006}
+      rotation: {x: 0, y: 0, z: 0.060824495, w: 0.9981485}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngongiua4 1
+      position: {x: -0.061305407, y: 0.0006943126, z: 0.009038546}
+      rotation: {x: 0, y: -0, z: -0.426612, w: 0.90443474}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngontro1 1
+      position: {x: -0.042309895, y: -0.03455827, z: 0.033897653}
+      rotation: {x: -0.060783822, y: 0.12855574, z: 0.22613068, w: 0.96366155}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngontro2 1
+      position: {x: -0.09827381, y: 0, z: 0.0063269823}
+      rotation: {x: 0, y: 0, z: 0.003436723, w: 0.9999941}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngontro3 1
+      position: {x: -0.077884406, y: -7.771561e-16, z: 0.0049712006}
+      rotation: {x: 0, y: 0, z: 0.060824495, w: 0.9981485}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: ngontro4 1
+      position: {x: -0.061305407, y: 0.0006943126, z: 0.009038546}
+      rotation: {x: 0, y: -0, z: -0.426612, w: 0.90443474}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xuong_chan_phai
+      position: {x: 0.06695667, y: 0.149277, z: 0.01154695}
+      rotation: {x: -0.706238, y: -0.03504094, z: -0.048879374, w: 0.70541537}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goiphai
+      position: {x: 0.29539514, y: 0.000000084175646, z: 0.0364075}
+      rotation: {x: 0.9682118, y: 0.25013164, z: -8.8568855e-17, w: 8.6123934e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: matcaphai
+      position: {x: 0.38870367, y: -0.00000026445082, z: -0.02815175}
+      rotation: {x: 0.7063034, y: 0.7079092, z: 8.659555e-17, w: -9.8329415e-20}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: banchanphai
+      position: {x: 0.1510233, y: -0.00000037298574, z: 0.00495875}
+      rotation: {x: 0, y: -0, z: -0.072932884, w: 0.99733686}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: muichanphai
+      position: {x: 0.1269215, y: 0.000001957779, z: 0.001653}
+      rotation: {x: -0.08416115, y: -0.7020804, z: -0.08416115, w: 0.7020804}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: xuong_chantrai
+      position: {x: 0.061080895, y: -0.15042792, z: 0.011546961}
+      rotation: {x: -0.03504095, y: 0.706238, z: 0.7054154, w: 0.04887939}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: goi_trai
+      position: {x: -0.29539436, y: -1.00261596e-16, z: -0.03640757}
+      rotation: {x: 0.9682118, y: 0.25013164, z: 6.2154834e-17, w: 4.7185386e-17}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: matcatrai
+      position: {x: -0.38870424, y: -1.2143064e-17, z: 0.02815158}
+      rotation: {x: 0.7063034, y: 0.7079092, z: 8.659555e-17, w: -9.8329415e-20}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: banchantrai
+      position: {x: -0.15102342, y: 5.551115e-17, z: -0.004958928}
+      rotation: {x: 0, y: -0, z: -0.072932884, w: 0.99733686}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: muichantrai
+      position: {x: -0.1269211, y: 1.110223e-16, z: -0.0016529761}
+      rotation: {x: -0.08416115, y: -0.7020804, z: -0.08416115, w: 0.7020804}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
